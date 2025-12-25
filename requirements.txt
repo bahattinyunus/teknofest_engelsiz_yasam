@@ -1,0 +1,16 @@
+# AI & ML
+torch>=2.0.0
+torchvision
+opencv-python
+ultralytics  # YOLOv8
+openai-whisper
+mediapipe
+
+# Core & Utils
+numpy
+requests
+pydantic
+
+# Accessibility
+pyttsx3      # Text-to-Speech
+SpeechRecognition

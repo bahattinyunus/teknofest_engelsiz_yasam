@@ -94,3 +94,6 @@ Bu proje, "Engelsiz Bir Dünya" mottosuyla geliştirilmiştir.
 ---
 ![Footer Image](https://img.shields.io/badge/Made_with-Love_and_Code-red?style=flat-square)
 *“En büyük engel, tasarlanmamış teknolojidir.”*
+<p align="center">
+  <img src="https://img.shields.io/badge/Powered%20By-TEKNOFEST-red?style=for-the-badge&logo=rocket&logoColor=white" alt="TEKNOFEST Support">
+</p>
